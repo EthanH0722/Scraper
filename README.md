@@ -1,3 +1,3 @@
 # Scraper
 
-Code for scraping stocks price data
+Code to scrape the data of APPLE stocks price.
